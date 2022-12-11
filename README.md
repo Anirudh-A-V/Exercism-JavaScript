@@ -23,4 +23,4 @@ This is the JavaScript track for Exercism. It contains all the exercises I have 
 | lasagna                 | Completed | 2022-12-10     | [file](lasagna/lasagna.js)                                 | [Link](https://exercism.org/tracks/javascript/exercises/lasagna)                 |
 | annalyns-infiltration   | Completed | 2022-12-11     | [file](annalyns-infiltration/annalyns-infiltration.js)     | [Link](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration)   |
 | freelancer-rates        | Completed | 2022-12-11     | [file](freelancer-rates/freelancer-rates.js)               | [Link](https://exercism.org/tracks/javascript/exercises/freelancer-rates)        |
-| poetry-club-door-policy | Completed | 2022-12-11     | [file](poetry-club-door-policy/poetry-club-door-policy.js) | [Link](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy) |
+| poetry-club-door-policy | Incompleted | 2022-12-11     | [file](poetry-club-door-policy/poetry-club-door-policy.js) | [Link](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy) |
