@@ -30,4 +30,4 @@ This is the JavaScript track for Exercism. It contains all the exercises I have 
 |  5  | poetry-club-door-policy | Completed | 2022-12-17     | [file](poetry-club-door-policy/door-policy.js)         | [Link](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy) |
 |  6  | elyses-enchantments     | Completed | 2022-12-17     | [file](elyses-enchantments/enchantments.js)            | [Link](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)     |
 |  7  | vehicle-purchase        | Completed | 2022-12-17     | [file](vehicle-purchase/vehicle-purchase.js)           | [Link](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)        |
-|  8  | bird-watcher            | Incomplete | 2022-12-17     | [file](bird-watcher/bird-watcher.js)                   | [Link](https://exercism.org/tracks/javascript/exercises/bird-watcher)            |
+|  8  | bird-watcher            | Completed | 2022-12-17     | [file](bird-watcher/bird-watcher.js)                   | [Link](https://exercism.org/tracks/javascript/exercises/bird-watcher)            |
