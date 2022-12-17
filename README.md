@@ -12,10 +12,10 @@ This is the JavaScript track for Exercism. It contains all the exercises I have 
     `exercism download --exercise=<exercise> --track=javascript`
 
 - Install [Node.js](https://nodejs.org/en/download/)
-- After installing Node.js, run `npm install` in the root of the project to install the dependencies
+- After installing Node.js, run `npm install` in the root of the exercise to install the dependencies
 - Solve the exercises & Submit the exercises using the CLI
 
-    `exercism submit <file>`
+    `exercism submit <filename>.js`
 
 - After submitting the exercise, you can view the solution on the [JavaScript track](https://exercism.org/tracks/javascript) page
 
@@ -31,3 +31,4 @@ This is the JavaScript track for Exercism. It contains all the exercises I have 
 |  6  | elyses-enchantments     | Completed | 2022-12-17     | [file](elyses-enchantments/enchantments.js)            | [Link](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)     |
 |  7  | vehicle-purchase        | Completed | 2022-12-17     | [file](vehicle-purchase/vehicle-purchase.js)           | [Link](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)        |
 |  8  | bird-watcher            | Completed | 2022-12-17     | [file](bird-watcher/bird-watcher.js)                   | [Link](https://exercism.org/tracks/javascript/exercises/bird-watcher)            |
+|  9  | mixed-juices            | Incomplete | 2022-12-17     | [file](mixed-juices/mixed-juices.js)                   | [Link](https://exercism.org/tracks/javascript/exercises/mixed-juices)            |
