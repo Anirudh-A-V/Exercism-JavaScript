@@ -8,10 +8,12 @@ This is the JavaScript track for Exercism. It contains all the exercises I have 
 - Register for the [JavaScript track](https://exercism.org/tracks/javascript)
 - Follow the instructions on the [JavaScript track](https://exercism.org/tracks/javascript) page to download the CLI
 - Use the CLI to download the exercises
+
     `exercism download --exercise=<exercise> --track=javascript`
 - Install [Node.js](https://nodejs.org/en/download/)
 - After installing Node.js, run `npm install` in the root of the project to install the dependencies
 - Solve the exercises & Submit the exercises using the CLI
+
     `exercism submit <file>`
 - After submitting the exercise, you can view the solution on the [JavaScript track](https://exercism.org/tracks/javascript) page
 
