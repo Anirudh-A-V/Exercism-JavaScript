@@ -29,4 +29,4 @@ This is the JavaScript track for Exercism. It contains all the exercises I have 
 | freelancer-rates        | Completed | 2022-12-11     | [file](freelancer-rates/freelancer-rates.js)           | [Link](https://exercism.org/tracks/javascript/exercises/freelancer-rates)        |
 | poetry-club-door-policy | Completed | 2022-12-17     | [file](poetry-club-door-policy/door-policy.js)         | [Link](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy) |
 | elyses-enchantments     | Completed | 2022-12-17     | [file](elyses-enchantments/enchantments.js)            | [Link](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)     |
-| vehicle-purchase        | Incomplete | 2022-12-17     | [file](vehicle-purchase/vehicle-purchase.js)           | [Link](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)        |
+| vehicle-purchase        | Completed | 2022-12-17     | [file](vehicle-purchase/vehicle-purchase.js)           | [Link](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)        |
